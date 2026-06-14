@@ -1,0 +1,15 @@
+
+*.parquet
+
+*.csv
+
+*.joblib
+
+*.pkl
+
+model/
+
+figures_global_final/
+
+__pycache__/
+
